@@ -28,4 +28,4 @@ git push --set-upstream origin "branch name" -> ajoute les fichier à la branch 
 git push -> same
 
 git pull
-git pull origin main -> met a jour l'intérieur d'un fichier 
+git pull origin main -> met a jour l'intérieur d'un fichier depuis le cloud vers le local
