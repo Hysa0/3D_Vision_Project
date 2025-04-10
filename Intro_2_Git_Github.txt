@@ -24,3 +24,8 @@ git branch -m main -> renome la branche principale en main (par défaut master)
 git remote add "name" URL -> enregistre un URL sous "name"
 
 git push -u name main -> ajoute le repertoir cloud de l'URL "name" comme lié à notre branche local main
+git push --set-upstream origin "branch name" -> ajoute les fichier à la branch en ligne
+git push -> same
+
+git pull
+git pull origin main -> met a jour l'intérieur d'un fichier 
