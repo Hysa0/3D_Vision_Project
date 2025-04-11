@@ -29,3 +29,7 @@ git push -> same
 
 git pull
 git pull origin main -> met a jour l'intérieur d'un fichier depuis le cloud vers le local
+
+git merge main -> quand on est dans une autre branche, merge le repertoir main dans cette branche
+
+git reset -> a développer (--soft or --hard)
