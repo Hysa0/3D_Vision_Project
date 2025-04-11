@@ -8,4 +8,7 @@ ShapeNET -> https://shapenet.org/
     -> Better methods single view : SDFDiff
 
 Common Object -> https://github.com/facebookresearch/co3d 
-    -> Better method single view : NU-MCC
+    -> Better method single view : NU-MCC -> Rendu interessant pour un single view mais pas en comparaison à un multi-view
+    -> Other methods : UnCO used Lightplane method -> intéressant 
+
+Utilisation de MASt3R sur tous les datasets et comparer aux résultats par rapport aux algorithmes de base pour l'améliorer ???
