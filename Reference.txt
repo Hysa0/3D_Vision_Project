@@ -4,3 +4,5 @@
 
 - GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation : https://arxiv.org/pdf/2403.14621
     Comparaison avec Blender -> pas de code disponible !!
+
+Tristepin : https://medium.com/@popovici.cristina211/3d-reconstruction-from-2d-images-using-openmvg-and-openmvs-b23bc7adb616
