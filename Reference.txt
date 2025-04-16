@@ -6,3 +6,5 @@
     Comparaison avec Blender -> pas de code disponible !!
 
 Tristepin : https://medium.com/@popovici.cristina211/3d-reconstruction-from-2d-images-using-openmvg-and-openmvs-b23bc7adb616
+
+Mast3r features Map : https://medium.com/@hirok4/what-is-a-mast3r-feature-map-3dd6dee1b7c1
