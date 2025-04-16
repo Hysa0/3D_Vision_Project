@@ -3,4 +3,4 @@
     Utilise NeRFs (Neural Radiance Fields)
 
 - GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation : https://arxiv.org/pdf/2403.14621
-    Comparaison avec Blender 
+    Comparaison avec Blender -> pas de code disponible !!
