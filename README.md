@@ -36,7 +36,35 @@ The use of a NVidia GPU is strongly recomanded!
 - Use "demo.py" in the mast3r directory for the MASt3R geometrical reconstruction
 - Use "demo.py" in the dust3r directory for the DUSt3R geometrical reconstruction
 
-## Others results and annexes
+# Others results and annexes
 We choose to put in Annexes all other results we have got. All pictures and 3D reconstructed file are available into the directory bellow.
 
+## Matching results from MASt3R
+![Matching results obtained from MASt3R gnome](gnome/Key_point_01_35_30_gnome.png)
+Keep calm as the gnome and its pigeon's beard
+![Matching results obtained from MASt3R owl](ceramic_owl/MASt3R/Key_point_01_35_30_ite.png)
+Ceramic owl
+![Matching results obtained from MASt3R vase](black_vase/MASt3R/Key_point_01_35_30_black_vase.png)
+Black vase
 
+## Reconstruction from MASt3R
+![reconstruction results obtained from MASt3R gnome](gnome/gnome_master_blanc_4.5_conf.png)
+
+Gnome
+
+![reconstruction results obtained from MASt3R owl](ceramic_owl/MASt3R/minconf_2_blanc_side_view.png)
+
+My deaarr friend: ceramic owl
+
+![reconstruction results obtained from MASt3R vase](black_vase/MASt3R/ball_white_master4.png)
+
+Black vase
+
+## Reconstruction from DUSt3R
+![reconstruction results obtained from DUSt3R owl](ceramic_owl/DUSt3R/duster_white.png)
+
+Ceramic owl
+
+![reconstruction results obtained from DUSt3R vase](black_vase/DUSt3R/ball_white_duster.png)
+
+I still wonder why this orange cup with a black sphere is call black vase
