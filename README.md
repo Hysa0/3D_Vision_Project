@@ -12,6 +12,7 @@ This work was carried out during the first year of the **AIMA Master’s** progr
 - [Installations and usage](#installation_and_usage)
   - [Installation](#installation)
   - [Usage](#usage)
+- [Annexes](#annexes)
 
 ## License
 This project was carried out for academic and educational purposes. As students in training, we do not claim the perfection of our results, the method, or the exact accuracy of the findings presented.
