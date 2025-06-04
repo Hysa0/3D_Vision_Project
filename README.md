@@ -103,5 +103,3 @@ Next, run the code in Blender by following the provided instructions, and you sh
 If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py an run it. <br>
 To test it, a handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide. <br>
 Feel free to use your own dataset to check your results.  
-
-Enjoy your journey on 3D reconstruction with Mast3r and Blender !
