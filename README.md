@@ -76,8 +76,7 @@ After installing Blender, simply follow the instructions in the README file loca
 REMEMBER: only import .glb files, if you want to make it work properly.
 Next, run the code in Blender by following the provided instructions, and you should observe an improvement in your reconstruction.
 
-![Principled BSDF node from Blender applied on owl](Computation\Owl_principle_BSF/07.png)
-
+![Principled BSDF node from Blender applied on owl](Computation/Owl_principle_BSF/07.png)
 
 
 
