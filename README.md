@@ -72,8 +72,8 @@ I still wonder why this orange cup with a black sphere is call black vase
 
 
 ## Blender and Bsdf
-After installing Blender, simply follow the instructions in the README file located in the Blender_Bsdf_code folder.
-REMEMBER: only import .glb files, if you want to make it work properly.
+After installing Blender, simply follow the instructions in the README file located in the Blender_Bsdf_code folder. <br>
+REMEMBER: only import .glb files, if you want to make it work properly.<br>
 Next, run the code in Blender by following the provided instructions, and you should observe an improvement in your reconstruction.
 
 <div align="center">
@@ -100,6 +100,6 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 
 ## Evaluation of blender results
-If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py. It's a one-click script.
-To test it, a handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide.
+If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py. It's a one-click script. <br>
+To test it, a handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide. <br>
 Feel free to use your own dataset to check your results.
