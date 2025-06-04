@@ -82,16 +82,18 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 
 
-
+<div align="center">
 
 <img src="Blender_Bsdf_code/Readme_image/3owl.png" alt="Résultat 3D" width="600">
 <p><em> Rendering difference with Ceramic owl </em></p>
 
+</div>
 
 
-<img src="Blender_Bsdf_code/Readme_image/3gnome.png" alt="Résultat 3D" width="600">
+<div align="center">
+<img src="Blender_Bsdf_code/Readme_image/les3gnomes.png" alt="Résultat 3D" width="600">
 <p><em> Rendering difference with the gnome </em></p>
-
+</div>
 
 
 
