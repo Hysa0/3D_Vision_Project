@@ -77,9 +77,14 @@ REMEMBER: only import .glb files, if you want to make it work properly.
 Next, run the code in Blender by following the provided instructions, and you should observe an improvement in your reconstruction.
 
 ![Principled BSDF node from Blender applied on owl](Computation/Owl_principle_BSF/07.png)
-Ceramic Owl with principled BSDF Node
+*Ceramic Owl with principled BSDF Node*
 
 
+![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3owl.png)
+*Rendering differences of Ceramic Owl*
+
+![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3gnomes.png)
+*Rendering differences of the gnome*
 
 ## Evaluation of blender results
 If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py. It's a one-click script.
