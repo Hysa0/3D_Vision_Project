@@ -84,14 +84,14 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 
 
-<img src="Blender_Bsdf_code/Readme_image/3owl.png" alt="Résultat 3D" width="400">
+<img src="Blender_Bsdf_code/Readme_image/3owl.png" alt="Résultat 3D" width="600">
 <p><em> Rendering difference with Ceramic owl </em></p>
 
 
 
+<img src="Blender_Bsdf_code/Readme_image/3gnome.png" alt="Résultat 3D" width="600">
+<p><em> Rendering difference with the gnome </em></p>
 
-![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3gnomes.png)
-*Rendering differences of the gnome*
 
 
 
