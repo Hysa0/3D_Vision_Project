@@ -80,11 +80,16 @@ Next, run the code in Blender by following the provided instructions, and you sh
 *Ceramic Owl with principled BSDF Node*
 
 
+
 ![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3owl.png)
 *Rendering differences of Ceramic Owl*
 
+
+
 ![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3gnomes.png)
 *Rendering differences of the gnome*
+
+
 
 ## Evaluation of blender results
 If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py. It's a one-click script.
