@@ -76,6 +76,7 @@ After installing Blender, simply follow the instructions in the README file loca
 REMEMBER: only import .glb files, if you want to make it work properly.
 Next, run the code in Blender by following the provided instructions, and you should observe an improvement in your reconstruction.
 
+
 ## Blender and Bsdf
 If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py. It's a one-click script.
 To test it, a handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide.
