@@ -78,7 +78,7 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 <div align="center">
 
-<img src="Computation/Owl_principle_BSF/07.png" alt="Résultat 3D" width="600">
+<img src="Computation/Owl_principle_BSF/07.png" alt="Résultat 3D" width="800">
 <p><em> Principled BSDF node applied to Ceramic owl </em></p>
 
 </div>
