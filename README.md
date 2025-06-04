@@ -81,8 +81,12 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 
 
-![Translucent BSDF, Principled BSDF, Ceramic Owl](Blender_Bsdf_code/Readme_image/3owl.png)
-*Rendering differences of Ceramic Owl*
+
+
+
+<img src="Blender_Bsdf_code/Readme_image/3owl.png" alt="Résultat 3D" width="400">
+<p><em> Rendering difference with Ceramic owl </em></p>
+
 
 
 
