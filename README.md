@@ -100,6 +100,6 @@ Next, run the code in Blender by following the provided instructions, and you sh
 
 
 ## Evaluation of blender results
-If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py an run it. <br>
-To test it, a handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide. <br>
+If you want to compute the PSNR and SSIM, use the "Computation" folder, where you'll find the Python script computation.py and run it. <br>
+To get some primary results, an handmade dataset is already included, along with a ground truth consisting of seven images from different viewpoints of the owl and the gnome we provide. <br>
 Feel free to use your own dataset to check your results.  
